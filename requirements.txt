@@ -1,0 +1,13 @@
+python-dotenv
+pandas
+numpy
+scikit-learn
+tensorflow
+torch
+matplotlib
+seaborn
+jupyter
+requests
+python-binance
+ta
+quantstats
